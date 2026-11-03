@@ -1,0 +1,6 @@
+Bibliothèques tierces incluses dans Keupro (versions figées) :
+- xlsx 0.18.5 — licence Apache-2.0
+- jszip 3.10.1 — licence (MIT OR GPL-3.0-or-later)
+- jspdf 2.5.1 — licence MIT
+- jspdf-autotable 3.8.2 — licence MIT
+- @supabase/supabase-js 2.117.3 — licence MIT
